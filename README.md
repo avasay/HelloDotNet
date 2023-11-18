@@ -4,4 +4,3 @@ This repo is a training place for myself in using Codespaces, specifically, how 
 - Create various ASP.NET projects such as Web App, Web API, Blazor, MVC, and Class Library.
 - Experiment with Machine Learning using Pytorch
 - Experiment with Github Actions.
-- 
